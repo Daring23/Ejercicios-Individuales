@@ -1,7 +1,43 @@
-{
-  "category": "Ciencia",
-  "question":"¿Quien creo la tabla periodica",
-  "options":[ "Dmitri Mendeléyev", "Isaac Newton", "Michael Faraday"],
-  "answer": 2,
-  "explanation": "El 6 de marzo de 1869 el químico Dmitri Mendeléyev presenta una primera versión de su tabla periódica de elementos ante la Sociedad Química de Rusia."
- }
+[{
+		"category": "Cultura",
+		"question": "¿Qué ingredientes se necesitan para hacer una michelada?",
+		"options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
+		"answer": 0,
+		"explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
+	},
+	{
+		"category": "Deporte",
+		"question": "¿Donde se realizaron los primeros Juegos Olimpicos?",
+		"options": ["ESpaña", "Atenas", "Florida"],
+		"answer": 1,
+		"explanation": "Los primeros Juegos Olímpicos se celebraron bajo los auspicios del COI en el Estadio Panathinaiko en Atenas entre el 6 y el 15 de abril de 1896."
+	},
+	{
+		"category": "Arte",
+		"question": "¿Quien escribio El Conde de Montecristo?",
+		"options": ["Gertrudis Gomez de Avellaneda", "Alexandre Dumas", "Manuel Cervantes"],
+		"answer": 1,
+		"explanation": "El conde de Montecristo es una novela de aventuras clásica de Alexandre Dumas.​ Esta obra se suele considerar como el mejor trabajo de Dumas y a menudo se incluye en las listas de las mejores novelas de todos los tiempos."
+	},
+	{
+		"category": "Cine",
+		"question": "¿Quien es la actriz principal de Casablanca?",
+		"options": ["Madeleine LeBeau", "Angelina Jolie", "Ingrid Bergman"],
+		"answer": 2,
+		"explanation": "Casablanca es una película estadounidense de drama y romance de 1942 dirigida por Michael Curtiz."
+	},
+	{
+		"category": "Historia",
+		"question": "¿Quien descubrio las Americas?",
+		"options": ["Marco Polo", "Alejandro Fernandez", "Napoleon Bonaparte", "Cristobal Colon"],
+		"answer": 3,
+		"explanation": "A pesar de la diversidad de teorías acerca de este descubrimiento, la historia oficial reconoce a Cristóbal Colón como el legítimo descubridor del nuevo continente en 1492."
+	},
+	{
+		"category": "Ciencia",
+		"question": "¿Quien creo la tabla periodica",
+		"options": ["Dmitri Mendeléyev", "Isaac Newton", "Michael Faraday"],
+		"answer": 2,
+		"explanation": "El 6 de marzo de 1869 el químico Dmitri Mendeléyev presenta una primera versión de su tabla periódica de elementos ante la Sociedad Química de Rusia."
+	}
+]
