@@ -1,4 +1,4 @@
-{
+
   "trivia": [
  { "category": "Cultura",
   "question": "¿Qué ingredientes se necesitan para hacer una michelada?",
@@ -12,7 +12,7 @@
   "options":["ESpaña", "Atenas", "Florida"],
   "answer": 1,
   "explanation": "Los primeros Juegos Olímpicos se celebraron bajo los auspicios del COI en el Estadio Panathinaiko en Atenas entre el 6 y el 15 de abril de 1896."
-}
+},
 {
   "category": "Arte",
   "question":"¿Quien escribio El Conde de Montecristo?",
@@ -42,7 +42,3 @@
   "explanation": "El 6 de marzo de 1869 el químico Dmitri Mendeléyev presenta una primera versión de su tabla periódica de elementos ante la Sociedad Química de Rusia."
  }
  ]
-}
-
-
-
