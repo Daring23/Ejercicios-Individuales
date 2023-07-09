@@ -1,7 +1,7 @@
 {
-  "category": "Cultura",
-  "question": "¿Qué ingredintes se necesitan para hacer una michelada?",
-  "options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
-  "answer": 0,
-  "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
-}
+		"category": "Deporte",
+		"question": "¿Donde se realizaron los primeros Juegos Olimpicos?",
+		"options": ["ESpaña", "Atenas", "Florida"],
+		"answer": 1,
+		"explanation": "Los primeros Juegos Olímpicos se celebraron bajo los auspicios del COI en el Estadio Panathinaiko en Atenas entre el 6 y el 15 de abril de 1896."
+	}
